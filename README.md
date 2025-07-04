@@ -1,6 +1,7 @@
-# Transaction-Analysis
-Transaction Analysis Project: Exploratory Data Analysis (EDA)
+# Banking Transaction-Analysis
+Banking Transaction Analysis Project: Exploratory Data Analysis (EDA)
 Project Overview:
+Analyzed user transaction logs to detect anomalies, track spending trends, and simulate fraud detection scenarios using Python and SQL.
 The Transaction Analysis project aims to conduct a comprehensive exploratory data analysis (EDA) on a dataset containing transactional data. 
 The goal is to uncover patterns, detect anomalies, and gain insights into  behavior, transaction trends.
 This project involves various data analysis and visualization techniques to understand the underlying structure of the data and derive actionable insights.
@@ -19,7 +20,10 @@ Standardize and normalize data as necessary.
 Analyze transaction trends over time (monthly, yearly).
 
 Tools and Techniques: -
-                Python Libraries:
+SQL:
+for take a look and intract with data.
+
+  Python Libraries:
 pandas for data manipulation and analysis.
 
 numpy for numerical computations.
@@ -29,6 +33,8 @@ matplotlib and seaborn for data visualization.
 plotly for interactive visualizations.
 
 
+Analyzed user transaction logs to detect anomalies, track spending trends, 
+and simulate fraud detection scenarios using Python and SQL.
 
 Steps in the EDA Process:
 Data Loading:
